@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://logo.hugo.nusz.hu" targetNamespace="http://logo.hugo.nusz.hu"> 
+
+    <xsd:element name="LogoData" type="xsd:base64Binary" />
+</xsd:schema>
+
